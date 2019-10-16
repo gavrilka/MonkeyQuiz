@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Monkey Quiz</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="level">Уровень:</string>
+    <string name="exit">Press again to exit</string>
+
+</resources>
